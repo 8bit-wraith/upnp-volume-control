@@ -1,0 +1,17 @@
+# Python virtual environment
+.venv/
+
+# macOS specific
+.DS_Store
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs
+*.log
+
+# IDE settings
+.vscode/
+.idea/

@@ -1,0 +1,11 @@
+{
+    "default_device": "TheBigD",
+    "volume_step": 10,
+    "shortcuts": {
+        "Volume Up": "",
+        "Volume Down": "",
+        "Play/Pause": "",
+        "Next Track": "",
+        "Previous Track": ""
+    }
+}

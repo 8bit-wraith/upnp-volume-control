@@ -1,0 +1,10 @@
+python-vlc==3.0.18121
+upnpclient==1.0.3
+pynput==1.7.6
+pyobjc-framework-Cocoa==9.2
+pyobjc-framework-ApplicationServices==9.2
+rumps==0.4.0
+PyQt6==6.5.0
+darkdetect==0.8.0
+dataclasses-json==0.5.7  # For profile serialization
+typing-extensions==4.5.0  # Required by dataclasses-json
